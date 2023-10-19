@@ -38,5 +38,7 @@ body {
 }
 
 #score, #wrong {
-    
+   font-size: 1.2rem;
+   color: #007bff;
+   margin-top: 20px; 
 }
